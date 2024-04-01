@@ -43,24 +43,7 @@ body{
 	height: 587px;
 	color: #000000;
 }
-#formaltext{
-	position: absolute;
-	width: 350px;
-	bottom: 0;
-	right: 193px;
-	padding: 10px 10px 30px 10px;
-	background: linear-gradient(to bottom,rgba(255,255,255,0.7),rgba(255,255,255,0.5),rgba(255,255,255,0));/***背景透明渐变***/
-}
-#formaltext h3 {
-	font-size: 14px;
-	font-weight: normal;
-	text-align: right;
-	margin-bottom: 12px;
-}
-#formaltext p{
-	font-size: 12px;
-    line-height: 150%;
-} 
+
 /*****正文部分三列等高样式******/
 #threeequalheight{
 	overflow: hidden;
