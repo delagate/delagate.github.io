@@ -5,18 +5,14 @@
 body{
 	font-family: SimSun;
 }
+
 /*************头部导航条样式**************/
 #header{
    height: 80px;
-   background-color: #003377;
+   background-color: #FF69B4;
    position: relative;
    overflow: hidden;
    min-width: 980px;
-}
-#githublogo{
-	position: absolute;
-	bottom: -2.5px;
-	right: 10px;
 }
 
 #nav{
@@ -46,6 +42,8 @@ body{
 	text-decoration: none;
 	color: #FFFFFF;
 }
+
+
 /*************footer导航条样式**************/
 #footer{
 	background-color: #000000;
@@ -93,6 +91,7 @@ a.referencelink{
 #footermassage p{
 	margin-bottom: 28px;
 }
+
 
 /*************主页正文部分样式**************/
 #mainsection{
