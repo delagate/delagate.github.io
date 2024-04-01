@@ -101,7 +101,7 @@ a.referencelink{
 /*****正文部分背景大图样式******/
 #indexbigimg{
 	position: relative;
-	background-image: url(../img/datu.jpg);
+	background-image: url(../image/datu.jpg);
 	height: 587px;
 	color: #000000;
 }
