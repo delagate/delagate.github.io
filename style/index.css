@@ -37,12 +37,14 @@ body{
 }
 
 
-#indexbigimg{
-	position: relative;
-	background-image: url(../image/datu.png);
-	height: 587px;
-	color: #000000;
+#indexbigimg {
+    position: relative;
+    background-image: url(../image/datu.png);
+    background-size: cover; /* 让背景图像覆盖整个元素 */
+    height: auto; /* 你也可以使用 'height: auto;' 来保持宽高比 */
+    color: #000000;
 }
+
 
 /*****正文部分三列等高样式******/
 #threeequalheight{
