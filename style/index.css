@@ -22,11 +22,7 @@ body{
 	margin: auto;
 }
 
-#mylogo{
-	position: absolute;
-	left: 0;
-	bottom: 5px;
-}
+
 #navbar{
 	list-style: none;
 	position: absolute;
@@ -94,10 +90,7 @@ a.referencelink{
 
 
 /*************主页正文部分样式**************/
-#mainsection{
-	background-color: #D3D3D3;
-	min-width: 980px;
-}
+
 /*****正文部分背景大图样式******/
 #indexbigimg{
 	position: relative;
