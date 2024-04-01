@@ -40,8 +40,9 @@ body{
 	position: relative;
 	background-image: url(../image/datu.png);
 	height: 500px;
+	width:1100px;
 	color: #000000;
-	background-size:cover; 
+	background-size:contain; 
 }
 
 /*****正文部分三列等高样式******/
