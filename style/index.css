@@ -42,7 +42,7 @@ body{
 	height: 500px;
 	width:1100px;
 	color: #000000;
-	background-size:contain; 
+	background-size:cover; 
 }
 
 /*****正文部分三列等高样式******/
