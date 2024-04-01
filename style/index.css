@@ -36,13 +36,14 @@ body{
 	color: #FFFFFF;
 }
 
-#datu{
+#indexbigimg{
 	position: relative;
 	background-image: url(../image/datu.png);
 	height: 700px;
 	color: #000000;
 	background-size:cover; 
 }
+
 
 /* 正文部分三列等高样式 */
 #content{
