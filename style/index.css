@@ -41,7 +41,7 @@ body{
 	background-image: url(../image/datu.png);
 	height: 587px;
 	color: #000000;
-	background-size:cover; 
+	background-size:auto; 
 }
 
 /*****正文部分三列等高样式******/
