@@ -5,7 +5,7 @@
 body{
 	font-family: SimSun;
 }
-/*************头部导航条样式**************/
+/* 头部导航条样式 */
 #header{
    height: 50px;
    background-color: #FF69B4;
@@ -20,37 +20,37 @@ body{
 	width: 980px;
 	margin: auto;
 }
-#navbar{
+#menu{
 	list-style: none;
 	position: absolute;
 	left: 0;
 	bottom: 5px;
 }
-#navbar li{
+#menu li{
 	display: inline;
 	font-size: 14px;
 	margin-left: 28px;
 }
-.navlink{
+.link{
 	text-decoration: none;
 	color: #FFFFFF;
 }
 
-#indexbigimg{
+#banner{
 	position: relative;
-	background-image: url(../image/datu.png);
+	background-image: url(../image/large.png);
 	height: 700px;
 	color: #000000;
 	background-size:cover; 
 }
 
-/*****正文部分三列等高样式******/
-#threeequalheight{
+/* 正文部分三列等高样式 */
+#content{
 	overflow: hidden;
 	width: 980px;
 	margin: auto;
 }
-.equalheight{
+.column{
 	background-color: #FFFFFF;
 	width: 300px;
 	float: left;
@@ -60,19 +60,18 @@ body{
 	margin-bottom: -10000px;
 }
 .inner{
-	border-bottom: solid #FFFFFF 25px;/**文字距离底部25px**/
+	border-bottom: solid #FFFFFF 25px; /* 文字距离底部25px */
 }
-#rightsection{
+#right{
 	margin-right: 0;
 }
-.equalimg{
+.image{
 	display: block;
 	margin-bottom: 15px;
 }
-.equalheight p{
+.column p{
 	padding: 0 20px 0 20px;
 	line-height: 170%;
 	font-size: 12px;
 	text-indent: 2em;
 }
-
